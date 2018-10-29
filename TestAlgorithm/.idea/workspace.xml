@@ -16,21 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestLongestCommonPrefix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestRemoveDuplicates.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            <state relative-caret-position="498">
+              <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -79,10 +69,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -118,9 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,12 +142,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="E:/project/api-attendance" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20574713" />
@@ -180,33 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMergeTwoLists.test">
-    <configuration default="false" name="TestRomanToInt.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TestAlgorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.single" />
-      <option name="MAIN_CLASS_NAME" value="com.single.TestRomanToInt" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestRemoveDuplicates.test">
     <configuration default="false" name="TestLongestCommonPrefix.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -297,6 +261,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.single" />
       <option name="MAIN_CLASS_NAME" value="com.single.TestMergeTwoLists" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestRemoveDuplicates.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TestAlgorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.single" />
+      <option name="MAIN_CLASS_NAME" value="com.single.TestRemoveDuplicates" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -699,19 +689,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestRomanToInt.test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test2" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestValidBrackets.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test2" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestValidBrackets.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestValidBrackets.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestRomanToInt.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestValidBrackets.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -743,75 +733,82 @@
       <workItem from="1539758555825" duration="5199000" />
       <workItem from="1539859028487" duration="4501000" />
       <workItem from="1539940307644" duration="2241000" />
+      <workItem from="1540459507168" duration="7000000" />
+      <workItem from="1540517489479" duration="9983000" />
+      <workItem from="1540777466323" duration="235000" />
+      <workItem from="1540795589328" duration="2043000" />
+      <workItem from="1540799110248" duration="7346000" />
+      <workItem from="1540807771033" duration="100000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMergeTwoLists_test - 2018.10.17 at 15h 07m 52s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.26 at 11h 26m 57s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.17 at 15h 08m 40s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.26 at 11h 32m 54s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.17 at 15h 32m 59s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.26 at 11h 41m 19s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.17 at 15h 33m 30s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.26 at 11h 42m 03s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.18 at 18h 39m 31s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.26 at 11h 44m 15s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.18 at 19h 01m 24s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.29 at 15h 53m 54s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.18 at 19h 24m 35s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.29 at 17h 30m 29s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.19 at 17h 20m 49s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.29 at 17h 31m 51s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.19 at 17h 22m 00s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.29 at 17h 33m 10s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMergeTwoLists_test - 2018.10.19 at 17h 23m 02s.xml">
-      <configuration name="TestMergeTwoLists.test" configurationId="JUnit" />
+    <history-entry file="TestRemoveDuplicates_test - 2018.10.29 at 17h 41m 01s.xml">
+      <configuration name="TestRemoveDuplicates.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84561000" />
+    <option name="totallyTimeSpent" value="111268000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36908516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3391877" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19033675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19010417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.533123" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51701427" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -863,8 +860,14 @@
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="39" />
+      <option name="time" value="42" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -877,11 +880,117 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="72" column="33" lean-forward="false" selection-start-line="72" selection-start-column="33" selection-end-line="72" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="77" column="8" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="55" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="55" />
-          <folding />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -902,7 +1011,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -910,7 +1022,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="55" lean-forward="false" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="55" />
-          <folding />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -931,7 +1046,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -939,7 +1057,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1020,27 +1141,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="4570" column="0" lean-forward="false" selection-start-line="4570" selection-start-column="0" selection-end-line="4570" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="555" column="0" lean-forward="false" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/reflect/InvocationTargetException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Character.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/HashMap.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/reflect/InvocationTargetException.java" />
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1069,20 +1172,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1957" column="18" lean-forward="false" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="487" column="0" lean-forward="false" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/ClassLoader.java" />
     <entry file="file://$PROJECT_DIR$/src/com/single/TestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1094,13 +1185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestAlgorithm.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1117,18 +1201,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestAlgorithm.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
+        <state relative-caret-position="762">
           <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
-          <folding />
+          <folding>
+            <marker date="1540459437164" expanded="true" signature="132:143" ph="/**...*/" />
+            <marker date="1540459437164" expanded="true" signature="2172:2459" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="498">
+          <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="33" />
           <folding />
         </state>
       </provider>

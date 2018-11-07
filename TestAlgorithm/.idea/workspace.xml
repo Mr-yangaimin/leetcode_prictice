@@ -16,25 +16,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="TestStrStr.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/single/TestStrStr.java">
+      <file leaf-file-name="TestCountAndSay.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cyy/TestCountAndSay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="929">
-              <caret line="85" column="39" lean-forward="false" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2172#2173#0" expanded="true" />
-                <element signature="e#2219#2220#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="386">
+              <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSearchInsert.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/single/TestSearchInsert.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="85" column="58" lean-forward="true" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
+            <state relative-caret-position="256">
+              <caret line="2896" column="18" lean-forward="false" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -77,6 +73,7 @@
         <option value="$PROJECT_DIR$/src/com/single/TestRemoveElement.java" />
         <option value="$PROJECT_DIR$/src/com/single/TestStrStr.java" />
         <option value="$PROJECT_DIR$/src/com/single/TestSearchInsert.java" />
+        <option value="$PROJECT_DIR$/src/com/cyy/TestCountAndSay.java" />
       </list>
     </option>
   </component>
@@ -87,8 +84,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="250" />
-    <option name="y" value="50" />
+    <option name="x" value="236" />
+    <option name="y" value="45" />
     <option name="width" value="1491" />
     <option name="height" value="936" />
   </component>
@@ -153,7 +150,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="single" />
+              <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -188,33 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSearchInsert.test">
-    <configuration default="false" name="TestMergeTwoLists.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TestAlgorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.single" />
-      <option name="MAIN_CLASS_NAME" value="com.single.TestMergeTwoLists" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestCountAndSay.test">
     <configuration default="false" name="TestRemoveDuplicates.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -305,6 +276,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.single" />
       <option name="MAIN_CLASS_NAME" value="com.single.TestSearchInsert" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCountAndSay.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cyy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TestAlgorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.cyy" />
+      <option name="MAIN_CLASS_NAME" value="com.cyy.TestCountAndSay" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -707,19 +704,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
       </list>
     </recent_temporary>
   </component>
@@ -763,47 +760,47 @@
       <workItem from="1540972029551" duration="10000" />
       <workItem from="1541038087207" duration="310000" />
       <workItem from="1541039341676" duration="50000" />
-      <workItem from="1541555963101" duration="10824000" />
+      <workItem from="1541555963101" duration="17787000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRemoveElement_test - 2018.10.30 at 16h 56m 48s.xml">
-      <configuration name="TestRemoveElement.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 16h 50m 28s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveElement_test - 2018.10.30 at 16h 57m 09s.xml">
-      <configuration name="TestRemoveElement.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 16h 50m 34s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveElement_test - 2018.10.30 at 16h 57m 26s.xml">
-      <configuration name="TestRemoveElement.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 14m 49s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsert_test - 2018.11.07 at 14h 32m 02s.xml">
-      <configuration name="TestSearchInsert.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 15m 22s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStrStr_test - 2018.11.07 at 10h 49m 21s.xml">
-      <configuration name="TestStrStr.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 15m 54s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStrStr_test - 2018.11.07 at 10h 51m 34s.xml">
-      <configuration name="TestStrStr.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 17m 31s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStrStr_test - 2018.11.07 at 10h 52m 08s.xml">
-      <configuration name="TestStrStr.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 18m 05s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStrStr_test - 2018.11.07 at 11h 10m 53s.xml">
-      <configuration name="TestStrStr.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 18m 13s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStrStr_test - 2018.11.07 at 11h 12m 49s.xml">
-      <configuration name="TestStrStr.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 18m 18s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestStrStr_test - 2018.11.07 at 11h 13m 08s.xml">
-      <configuration name="TestStrStr.test" configurationId="JUnit" />
+    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 18m 25s.xml">
+      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141895000" />
+    <option name="totallyTimeSpent" value="148858000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="250" y="50" width="1491" height="936" extended-state="1" />
+    <frame x="236" y="45" width="1491" height="936" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -816,7 +813,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3584656" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35794744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -829,7 +826,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1764706" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27784732" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -892,7 +889,7 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="46" />
+      <option name="time" value="47" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -905,13 +902,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="84" column="1" lean-forward="false" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1584">
@@ -1228,21 +1218,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="1769" column="39" lean-forward="false" selection-start-line="1769" selection-start-column="30" selection-end-line="1769" selection-end-column="39" />
-          <folding>
-            <element signature="e#66457#66458#0" expanded="false" />
-            <element signature="e#66495#66496#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="42" column="30" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="42" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestSearchInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="49" column="28" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1259,10 +1246,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/single/TestSearchInsert.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="85" column="58" lean-forward="true" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
+        <state relative-caret-position="256">
+          <caret line="2896" column="18" lean-forward="false" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyy/TestCountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="62" column="28" lean-forward="false" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="28" />
           <folding />
         </state>
       </provider>

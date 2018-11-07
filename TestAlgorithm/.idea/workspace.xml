@@ -16,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="TestStrStr.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestStrStr.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/single/TestStrStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="929">
+              <caret line="85" column="39" lean-forward="false" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2172#2173#0" expanded="true" />
@@ -30,25 +30,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLongestCommonPrefix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
+      <file leaf-file-name="TestSearchInsert.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/single/TestSearchInsert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+            <state relative-caret-position="870">
+              <caret line="85" column="58" lean-forward="true" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="1769" column="39" lean-forward="false" selection-start-line="1769" selection-start-column="30" selection-end-line="1769" selection-end-column="39" />
-              <folding>
-                <element signature="e#66457#66458#0" expanded="true" />
-                <element signature="e#66495#66496#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/src/com/single/TestRemoveElement.java" />
         <option value="$PROJECT_DIR$/src/com/single/TestStrStr.java" />
+        <option value="$PROJECT_DIR$/src/com/single/TestSearchInsert.java" />
       </list>
     </option>
   </component>
@@ -99,10 +87,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="350" />
-    <option name="y" value="95" />
-    <option name="width" value="1311" />
-    <option name="height" value="834" />
+    <option name="x" value="250" />
+    <option name="y" value="50" />
+    <option name="width" value="1491" />
+    <option name="height" value="936" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -200,33 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestStrStr.test">
-    <configuration default="false" name="TestValidBrackets.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TestAlgorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.single" />
-      <option name="MAIN_CLASS_NAME" value="com.single.TestValidBrackets" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestSearchInsert.test">
     <configuration default="false" name="TestMergeTwoLists.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -317,6 +279,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.single" />
       <option name="MAIN_CLASS_NAME" value="com.single.TestStrStr" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSearchInsert.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TestAlgorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.single" />
+      <option name="MAIN_CLASS_NAME" value="com.single.TestSearchInsert" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -719,19 +707,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestValidBrackets.test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestValidBrackets.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicates.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestMergeTwoLists.test" />
       </list>
     </recent_temporary>
   </component>
@@ -775,14 +763,11 @@
       <workItem from="1540972029551" duration="10000" />
       <workItem from="1541038087207" duration="310000" />
       <workItem from="1541039341676" duration="50000" />
-      <workItem from="1541555963101" duration="4188000" />
+      <workItem from="1541555963101" duration="10824000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRemoveElement_test - 2018.10.30 at 16h 48m 36s.xml">
-      <configuration name="TestRemoveElement.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestRemoveElement_test - 2018.10.30 at 16h 56m 48s.xml">
       <configuration name="TestRemoveElement.test" configurationId="JUnit" />
     </history-entry>
@@ -791,6 +776,9 @@
     </history-entry>
     <history-entry file="TestRemoveElement_test - 2018.10.30 at 16h 57m 26s.xml">
       <configuration name="TestRemoveElement.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSearchInsert_test - 2018.11.07 at 14h 32m 02s.xml">
+      <configuration name="TestSearchInsert.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestStrStr_test - 2018.11.07 at 10h 49m 21s.xml">
       <configuration name="TestStrStr.test" configurationId="JUnit" />
@@ -812,10 +800,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135259000" />
+    <option name="totallyTimeSpent" value="141895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="350" y="95" width="1311" height="834" extended-state="1" />
+    <frame x="250" y="50" width="1491" height="936" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -828,12 +816,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35868007" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3584656" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27223513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23896809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964438" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -844,7 +833,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -917,14 +905,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
@@ -1253,29 +1233,37 @@
         <state relative-caret-position="124">
           <caret line="1769" column="39" lean-forward="false" selection-start-line="1769" selection-start-column="30" selection-end-line="1769" selection-end-column="39" />
           <folding>
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#66457#66458#0" expanded="false" />
+            <element signature="e#66495#66496#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        <state relative-caret-position="200">
+          <caret line="42" column="30" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="42" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestStrStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="929">
+          <caret line="85" column="39" lean-forward="false" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2172#2173#0" expanded="true" />
             <element signature="e#2219#2220#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/single/TestSearchInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="85" column="58" lean-forward="true" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>

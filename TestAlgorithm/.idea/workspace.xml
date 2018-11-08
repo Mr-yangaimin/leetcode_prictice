@@ -16,21 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="TestMaxSubArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/cyy/TestMaxSubArray.java">
+      <file leaf-file-name="TestLengthOfLastWord.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cyy/TestLengthOfLastWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NativeMethodAccessorImpl.class" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="80">
+              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -75,6 +65,7 @@
         <option value="$PROJECT_DIR$/src/com/single/TestSearchInsert.java" />
         <option value="$PROJECT_DIR$/src/com/cyy/TestCountAndSay.java" />
         <option value="$PROJECT_DIR$/src/com/cyy/TestMaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/cyy/TestLengthOfLastWord.java" />
       </list>
     </option>
   </component>
@@ -85,8 +76,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="216" />
-    <option name="y" value="52" />
+    <option name="x" value="116" />
+    <option name="y" value="46" />
     <option name="width" value="1543" />
     <option name="height" value="960" />
   </component>
@@ -209,33 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMaxSubArray.test">
-    <configuration default="false" name="TestRemoveElement.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.single.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="TestAlgorithm" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.single" />
-      <option name="MAIN_CLASS_NAME" value="com.single.TestRemoveElement" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestLengthOfLastWord.test">
     <configuration default="false" name="TestStrStr.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -326,6 +291,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.cyy" />
       <option name="MAIN_CLASS_NAME" value="com.cyy.TestMaxSubArray" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestLengthOfLastWord.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cyy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="TestAlgorithm" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.cyy" />
+      <option name="MAIN_CLASS_NAME" value="com.cyy.TestLengthOfLastWord" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -728,19 +719,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestMaxSubArray.test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestMaxSubArray.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestLengthOfLastWord.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMaxSubArray.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveElement.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestLengthOfLastWord.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestMaxSubArray.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSearchInsert.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestStrStr.test" />
       </list>
     </recent_temporary>
   </component>
@@ -785,20 +776,11 @@
       <workItem from="1541038087207" duration="310000" />
       <workItem from="1541039341676" duration="50000" />
       <workItem from="1541555963101" duration="20579000" />
-      <workItem from="1541640061463" duration="9799000" />
+      <workItem from="1541640061463" duration="11569000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 15m 54s.xml">
-      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 17m 31s.xml">
-      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 18m 05s.xml">
-      <configuration name="TestCountAndSay.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 18m 13s.xml">
       <configuration name="TestCountAndSay.test" configurationId="JUnit" />
     </history-entry>
@@ -807,6 +789,15 @@
     </history-entry>
     <history-entry file="TestCountAndSay_test - 2018.11.07 at 17h 18m 25s.xml">
       <configuration name="TestCountAndSay.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLengthOfLastWord_test - 2018.11.08 at 15h 40m 48s.xml">
+      <configuration name="TestLengthOfLastWord.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLengthOfLastWord_test - 2018.11.08 at 15h 45m 16s.xml">
+      <configuration name="TestLengthOfLastWord.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLengthOfLastWord_test - 2018.11.08 at 15h 51m 39s.xml">
+      <configuration name="TestLengthOfLastWord.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestMaxSubArray_test - 2018.11.08 at 10h 53m 52s.xml">
       <configuration name="TestMaxSubArray.test" configurationId="JUnit" />
@@ -822,10 +813,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161449000" />
+    <option name="totallyTimeSpent" value="163219000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="216" y="52" width="1543" height="960" extended-state="0" />
+    <frame x="116" y="46" width="1543" height="960" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -838,19 +829,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35722965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35844472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20655738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2242623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279099" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32685298" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -913,8 +904,14 @@
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cyy/TestLengthOfLastWord.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="48" />
+      <option name="time" value="49" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -927,14 +924,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/single/TestRemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="52" column="7" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
@@ -1258,14 +1247,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/single/TestLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1276,8 +1257,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/cyy/TestMaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="608">
           <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cyy/TestLengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding />
         </state>
       </provider>
